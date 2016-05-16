@@ -1,0 +1,6 @@
+D:\TrainingProjects\GitPlayground\GitPlayground\bin\Debug\GitPlayground.exe.config
+D:\TrainingProjects\GitPlayground\GitPlayground\bin\Debug\GitPlayground.exe
+D:\TrainingProjects\GitPlayground\GitPlayground\bin\Debug\GitPlayground.pdb
+D:\TrainingProjects\GitPlayground\GitPlayground\obj\Debug\GitPlayground.csprojResolveAssemblyReference.cache
+D:\TrainingProjects\GitPlayground\GitPlayground\obj\Debug\GitPlayground.exe
+D:\TrainingProjects\GitPlayground\GitPlayground\obj\Debug\GitPlayground.pdb
